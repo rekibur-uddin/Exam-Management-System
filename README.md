@@ -132,13 +132,13 @@ In the source code, update the **JDBC URL**, **username**, and **password** to m
 
 | Admin Dashboard                   | Question Management                       |
 | --------------------------------- | ----------------------------------------- |
-| ![Admin](./screenshots/admin.png) | ![Questions](./screenshots/questions.png) |
+| <img width="742" height="524" alt="Screenshot 2025-10-20 103011" src="https://github.com/user-attachments/assets/d5f94850-90b3-436f-9b5d-7fd537250635" />|    <img width="733" height="480" alt="Screenshot 2025-10-20 103021" src="https://github.com/user-attachments/assets/e14b0bc5-e559-4fb3-9753-8075ab6466f4" /> |
 
-| Result Page                         | Student Registration                    |
+| Exam History                         | Student Registration                    |
 | ----------------------------------- | --------------------------------------- |
-| ![Result](./screenshots/result.png) | ![Register](./screenshots/register.png) |
+|       <img width="724" height="505" alt="Screenshot 2025-10-20 103030" src="https://github.com/user-attachments/assets/fdac6137-ccae-45fa-9f0e-041f93ddb993" />  | <img width="1097" height="736" alt="Screenshot 2025-10-20 102853" src="https://github.com/user-attachments/assets/7e453ffb-0599-41ee-9950-fdf4d32b20f7" />  |
 
-📸 **[View All Screenshots](./screenshots/)**
+📸 **[View All Screenshots in PDF]**
 
 ---
 
@@ -151,4 +151,4 @@ In the source code, update the **JDBC URL**, **username**, and **password** to m
 
 ## ⭐ Support
 
-If you like this project, consider giving it a **⭐ on GitHub** 🙌
+If you like this project, consider giving it a ⭐ on [GitHub](https://github.com/rekibur-uddin/Exam-Management-System/) 🙌
