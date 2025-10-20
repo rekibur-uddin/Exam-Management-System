@@ -1,2 +1,154 @@
-# Exam-Management-System
-Java NetBeans project for managing exams with MySQL database | BCA Project
+# 📝 Exam Management System 🧠
+
+A **Java-based Exam Management System** built using **NetBeans IDE** and **MySQL**, designed to simplify and automate exam-related tasks for educational institutions.
+This project is part of the **BCA Final Year Project** and includes the **complete ER diagram**, **database structure**, and a **detailed project report**.
+
+---
+
+## 📌 Project Overview
+
+The **Exam Management System** provides a secure and user-friendly platform where:
+
+* 🧑‍💼 **Admins** can manage exams, questions, and student records.
+* 🧑‍🎓 **Students** can register, log in, attempt exams, and view their results in real time.
+
+The project uses **Java Swing** for the GUI and **MySQL** for data storage, ensuring fast and secure performance.
+
+---
+
+## ✨ Features
+
+### 🧑‍💼 Admin Panel
+
+* Add / Update / Delete Questions
+* Manage Students & Results
+* Schedule Exams
+
+### 🧑‍🎓 Student Module
+
+* Register & Login
+* Attempt MCQ-Based Exams
+* View Scores Instantly
+
+### 🧠 Question Management System
+
+* 🔐 Secure Database Integration (MySQL + JDBC)
+* 📝 Real-time Result Generation
+* 📊 ER & DFD Diagrams + Full Project Report
+
+---
+
+## 🛠️ Tech Stack
+
+| Component        | Technology            |
+| ---------------- | --------------------- |
+| 💻 Frontend      | Java Swing (NetBeans) |
+| 🗄️ Backend      | MySQL                 |
+| 🧠 IDE           | NetBeans              |
+| 📝 Language      | Java (JDK 8+)         |
+| 🔐 DB Connection | JDBC                  |
+
+---
+
+## 📂 Project Structure
+
+```
+Exam-Management-System/
+├─ nbproject/
+├─ src/
+│  └─ exammanagement/       # Java source files (Admin & Student Modules)
+├─ dist/
+├─ database/
+│  └─ exam_management.sql
+├─ report/
+│  ├─ Project-Report.pdf
+│  └─ ER-Diagram.pdf
+├─ screenshots/
+├─ README.md
+└─ .gitignore
+```
+
+---
+
+## 📊 ER Diagram
+
+📌 **[View ER Diagram (PDF)](./report/ER-Diagram.pdf)**
+(Opens directly in GitHub's PDF viewer)
+
+---
+
+## 📘 Project Report
+
+📄 **[Download Full Project Report (PDF)](./report/Project-Report.pdf)**
+
+The report includes:
+
+* Problem Definition
+* Objective
+* Existing & Proposed System
+* System Design (DFD, ERD, Schema)
+* Implementation Details
+* Output Screenshots
+* Conclusion
+
+---
+
+## 🧰 How to Run Locally
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/rekibur-uddin/Exam-Management-System.git
+cd Exam-Management-System
+```
+
+### 2️⃣ Import into NetBeans
+
+* Open **NetBeans IDE**
+* Go to `File → Open Project`
+* Select the project folder
+
+### 3️⃣ Import the Database
+
+* Open **phpMyAdmin** or **MySQL Workbench**
+* Create a new schema (e.g., `exam_management`)
+* Import `database/exam_management.sql`
+
+### 4️⃣ Update DB Credentials
+
+In the source code, update the **JDBC URL**, **username**, and **password** to match your local MySQL configuration.
+
+### 5️⃣ Run the Project
+
+* Click **▶️ Run Project** in NetBeans
+
+---
+
+## 🖼️ Screenshots
+
+| Login Page                        | Student Exam Interface          |
+| --------------------------------- | ------------------------------- |
+| ![Login](./screenshots/login.png) | ![Exam](./screenshots/exam.png) |
+
+| Admin Dashboard                   | Question Management                       |
+| --------------------------------- | ----------------------------------------- |
+| ![Admin](./screenshots/admin.png) | ![Questions](./screenshots/questions.png) |
+
+| Result Page                         | Student Registration                    |
+| ----------------------------------- | --------------------------------------- |
+| ![Result](./screenshots/result.png) | ![Register](./screenshots/register.png) |
+
+📸 **[View All Screenshots](./screenshots/)**
+
+---
+
+## ✍️ Author
+
+👤 **Rekibur Uddin**
+📧 [Visit My Portfolio](https://rekiburuddin.blogspot.com)
+
+---
+
+## ⭐ Support
+
+If you like this project, consider giving it a **⭐ on GitHub** 🙌
