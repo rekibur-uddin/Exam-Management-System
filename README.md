@@ -79,7 +79,7 @@ Exam-Management-System/
 
 ## 📘 Project Report
 
-📄 **[Download Full Project Report (PDF)](./report/Project-Report.pdf)**
+📄 **[Download Full Project Report (PDF)](./Exam%20Management%20Systemn%20Project%20Report.pdf)**
 
 The report includes:
 
