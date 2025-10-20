@@ -128,7 +128,9 @@ In the source code, update the **JDBC URL**, **username**, and **password** to m
 
 | Login Page                        | Student Exam Interface          |
 | --------------------------------- | ------------------------------- |
-| ![Login](./screenshots/login.png) | ![Exam](./screenshots/exam.png) |
+| <img width="780" height="663" alt="Screenshot 2025-10-20 102907" src="https://github.com/user-attachments/assets/bee725e5-d141-4156-b949-3bfaafce7c60" />
+ |    <img width="809" height="705" alt="Screenshot 2025-10-20 102929" src="https://github.com/user-attachments/assets/b9e94469-d01c-48be-bee4-4836157602b2" />
+   |
 
 | Admin Dashboard                   | Question Management                       |
 | --------------------------------- | ----------------------------------------- |
